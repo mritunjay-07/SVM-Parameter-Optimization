@@ -1,5 +1,6 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # SVM PARAMETER OPTIMIZATION
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ## OVERVIEW
 This assignment is an implementation of SVM (Support Vector Machine) algorithm with parameter optimization using random search. The algorithm is applied on the 
 "Room Occupancy Estimation" dataset which contains temperature, humidity, light, and CO2 sensor data for a room.
@@ -14,7 +15,7 @@ Finally, the code generates a table that shows the best hyperparameters and accu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ## DATASET
 * The "Room Occupancy Estimation" dataset available on the UCI Machine Learning Repository contains data collected from a wireless sensor network deployed in an office building for the purpose of occupancy detection. 
-
+* The dataset can be downloaded from the given link: [Link](https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation)
 * The dataset consists of a total of 20,560 instances, with 16,928 instances in the training set and 3,632 instances in the test set. Each instance contains seven   attributes:
   * Date and time
   * Temperature, in degrees Celsius
