@@ -14,3 +14,4 @@ Finally, the code generates a table that shows the best hyperparameters and accu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
+![image](https://user-images.githubusercontent.com/104979974/233455406-05f3ae97-798e-4de9-858f-abcecc5b5874.png)
