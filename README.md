@@ -31,7 +31,7 @@ Finally, the code generates a table that shows the best hyperparameters and accu
 ![WhatsApp Image 2023-04-21 at 00 29 39](https://user-images.githubusercontent.com/104979974/233462587-87ad3b81-8a0c-474e-acac-6b7bbb4a6459.jpg)
 ## RESULT
 The best parameters of SVC for the given dataset are:
-Kernel : rbf
-Nu : 0.516601
-Epsillon : 0.121573
+* Kernel : rbf
+* Nu : 0.516601
+* Epsillon : 0.121573
 The above parameter gave a maximum accuracy of 0.932081.
