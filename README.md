@@ -1,6 +1,5 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # SVM PARAMETER OPTIMIZATION
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ## OVERVIEW
 This assignment is an implementation of SVM (Support Vector Machine) algorithm with parameter optimization using random search. The algorithm is applied on the 
 "Room Occupancy Estimation" dataset which contains temperature, humidity, light, and CO2 sensor data for a room.
