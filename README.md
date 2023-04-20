@@ -34,4 +34,4 @@ The best parameters of SVC for the given dataset are:
 * Kernel : rbf
 * Nu : 0.516601
 * Epsillon : 0.121573
-The above parameter gave a maximum accuracy of 0.932081.
+* Maximum Accuracy : 0.932081.
